@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Testing the grid to see if it makes sense for me to use as my home site.
-datePublished: '2016-03-31T17:54:03.185Z'
-dateModified: '2016-03-31T17:53:50.083Z'
+datePublished: '2016-03-31T17:56:23.931Z'
+dateModified: '2016-03-31T17:54:07.118Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-31-testing-the-grid-to-see-if-it-makes-sense-for-me-to-use-as-m.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-testing-the-grid-to-see-if-it-makes-sense-for-me-to-use-as-m.md
-published: true
 url: testing-the-grid-to-see-if-it-makes-sense-for-me-to-use-as-m/index.html
 _type: Article
 
