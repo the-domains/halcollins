@@ -1,7 +1,7 @@
 name: halcollins
 favicon: null
 layout_spectrum: 0.6113454040605575
-typography_spectrum: 0.6263009801041335
+typography_spectrum: 0.64133
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.30304215336218476
+  brandStrength: 0.5
   lightness: 0.9754132283851504
-  saturation: 0.596426184521988
+  saturation: 0.5625
   rhythmicContrast: 0.726139402249828
 purpose: []
