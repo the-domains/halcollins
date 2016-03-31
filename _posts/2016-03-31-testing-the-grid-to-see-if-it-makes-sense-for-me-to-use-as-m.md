@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Testing the grid to see if it makes sense for me to use as my home site.
-datePublished: '2016-03-31T17:56:23.931Z'
-dateModified: '2016-03-31T17:54:07.118Z'
+datePublished: '2016-03-31T18:02:01.122Z'
+dateModified: '2016-03-31T18:01:22.504Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-31-testing-the-grid-to-see-if-it-makes-sense-for-me-to-use-as-m.md
